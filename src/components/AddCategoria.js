@@ -21,7 +21,9 @@ const AddCategoria = ({setCategoria}) => {
             <input
                 type="text"
                 value={inputvalue}
-                onChange={ingresarvalor}></input>
+                onChange={ingresarvalor}
+                placeholder="Buscar Gifs"
+                ></input>
         </form>
     )
 };

@@ -4,6 +4,8 @@
 
 body {
 padding: 60px;
+background: black;
+color: white;
 }
 
 input {
